@@ -2,7 +2,7 @@
   <img src="public/github-header-banner.png" alt="header banner">
 </p>
 I build solid, production-ready systems with a focus on the business management space (BMS). My work combines practical system design with modern web tooling and emerging DevOps practices to deliver applications that stay reliable under real operational load.
----
+
 
 ## 🚀 Featured Projects
 
